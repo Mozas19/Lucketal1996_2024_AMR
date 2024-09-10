@@ -7,3 +7,5 @@ As a table of contents, I will specify below the content of each of the folders 
   2. random_wordlist: This folder contains 2 .py files, which randomize the words from the original list to give them a different order and another that formats them as we desire for the RSVP. As in the previous file, I am leaving the .xlsx files that should be the result.
 
   3. AB_RSVP_ESP: I am leaving in this folder the same files that are found in Prof. Guiomar Niso's repository of the current state of the PsychoPy code for the RSVP, with slight modifications. Well, this folder contains all the necessary files for the experiment to run in Spanish, and it is the code we are using to conduct the test trials.
+  
+  4. distractors: In this folder, there is a code that generates a .csv file of 1853 distractors. These must have specific characteristics to fit into the experimental paradigm of our RSVP. They must be strings of 7 uppercase characters that do not repeat consecutive characters and exclude vowels, the letter Ñ, and the letter Q.
