@@ -1,0 +1,10 @@
+Instrucciones
+
+Si ve un numero impar, pulse la tecla F de su teclado.
+Si ve un numero par, pulse la tecla J de su teclado.
+
+A su vez:
+Si la palabra esta relacionada, pulse la tecla F de su teclado.
+Si la palabra no esta relacionada, pulse la tecla J de su teclado.
+
+Concentre su atencion e intente responder con la mayor precision y rapidez posibles. Cuando este preparado, comenzaremos la prueba.
